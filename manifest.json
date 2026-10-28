@@ -1,0 +1,32 @@
+{
+  "dataset": "China-US MRCT public registry collection",
+  "registry_snapshot_date": "2026-10-20",
+  "source_archive_name": "中美MRCT_完整资料.zip",
+  "archive_bytes": 3610523550,
+  "archive_sha256": "f2d1f12f8d30440fe4863b60c7d4bbaa42a14d17df5051e5dd80d3922fb28e99",
+  "parts": [
+    {
+      "name": "MRCT-data.zip.001",
+      "bytes": 1900000000,
+      "sha256": "f7d6a017ef2b32a1003fcbff8e775f91ae414191a46a9584ce5c6b5dd635d6b2"
+    },
+    {
+      "name": "MRCT-data.zip.002",
+      "bytes": 1710523550,
+      "sha256": "aa24e94325a22eef8c746823a3ca79c9522a9493d314675d79e9f61817b186b9"
+    }
+  ],
+  "archive_entries": 1985,
+  "split_and_rejoin_sha256": "pass",
+  "original_zip_crc": "pass",
+  "screened_trials": 14822,
+  "screened_cn_us_records_including_excluded": 850,
+  "drug_related_records": 849,
+  "actual_cn_us_baseline_enrollment_evidence": 70,
+  "candidate_records": 779,
+  "excluded_device_only": 1,
+  "archived_registry_jsons": 850,
+  "archived_protocol_sap_pdfs": 1120,
+  "review_status": "awaiting_review",
+  "worldwide_total": null
+}
